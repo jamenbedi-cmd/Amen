@@ -1,0 +1,43 @@
+public class personalinfo{
+    public static void main(String[]args){
+
+     String fullName = " Joy Amen Bedi";
+
+         int age = 20;
+
+           char gender = 'M';
+
+            double height = 1.5f;
+      
+              float weight = 58.5kg;
+
+               boolean isStudent = true;
+
+                  long phonenumber = 0256488478;
+
+                   String gradeLevel = "200Level";
+
+                    String program = "Computer Science";
+
+System.out.printIn("=====PERSONAL INFORMATION=====");
+     
+     System.out.printIn("FULL NAME:" + fullname);
+
+System.out.printIn("AGE;" + age + " years");
+      
+       System.out.prinIn("GENDER:" + gender);
+
+System.out.printIn("HEIGHT:" + height + " m ");
+ 
+        System.out.printIn("WEIGHT:" + weight + " kg ");
+
+System.out.printIn("STUDENT:" + isStudent);
+
+          System.out.printIn("PHONE NUMBER:" + " phone number ");
+
+System,out.printIn("GRADE/LEVEL:" + gradeLevel);
+
+          System.out.printIn("PROGRAM:" + program);
+
+System.out.printIn("===============================");
+      
